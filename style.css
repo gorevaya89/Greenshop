@@ -4,6 +4,7 @@
 
 body {
     margin: 0px;
+    font-family: PT Sans;
 }
 
 .maket {
@@ -56,6 +57,55 @@ margin-right: auto;
 
 .Login {
     display: inline-block;
-    margin-left: 100px;
+    margin-left: 200px;
 }
 
+.content {
+    background-color: rgba(245, 245, 245, 0.5);
+    padding-left: 43px;
+    padding-bottom: 85px;
+    margin-left: 120px;
+    margin-bottom: 52px;
+    margin-top: 12px;
+}
+
+.Welcome-text {
+    margin-top: 0;
+    margin-bottom: 7px;
+    width: 205px;
+    height: 16px;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 1.4px;
+    color:#3D3D3D;
+    text-transform: uppercase;
+}
+
+.Main-text {
+    margin-top: 0;
+    margin-bottom: 5px;
+    width: 530px;
+    height: 140px;
+    font-size: 70px;
+    line-height: 70px;
+    color:#3D3D3D;
+    text-transform: uppercase;
+}
+.Main-text span {
+    color:#46A358;
+}
+
+.describe {
+    margin-top: 0;
+    margin-bottom: 44px;
+}
+
+.shop-bottom {
+    margin-top: 0;
+}
+.content-inner {
+    display: inline-block;
+    width: 557px;
+    padding-top: 68px;
+    vertical-align: top;
+}
